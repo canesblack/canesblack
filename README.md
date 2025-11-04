@@ -139,7 +139,7 @@
 ---
 
 ## 🌟 Fun Facts
-- I speak **Korean / English / French** (Enchanté !)
+- I speak **Korean / English 
 - I believe **consistency beats intensity**.
 
 ---
