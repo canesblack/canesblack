@@ -6,7 +6,7 @@
 <h1 align="center">Hi there 👋, I'm Dahyun Jung (정다현)</h1>
 <p align="center">
   💻 Full-Stack Developer (Web & Mobile) · 📚 Official-Docs-First Learner · 🤖 AI Focused<br/>
-  🌏 Seoul, South Korea · <a href="mailto:jong@naver.com">jong@naver.com</a>
+  🌏 Seoul, South Korea · <a href="mailto:jong960107@naver.com">jong@naver.com</a>
 </p>
 
 <p align="center">
