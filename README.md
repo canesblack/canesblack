@@ -123,18 +123,18 @@
 
 ## 📚 Teaching (Inflearn)
 - **이거 하나로 종결 — 스프링 풀스택 웹개발 무료강좌 시리즈**  
-  <https://inf.run/erSr>  
+  <[https://inf.run/erSr](https://inf.run/u4nZS)>  
   *HTML, CSS, JavaScript, MySQL, 데이터베이스, 컴퓨터네트워크 기초, Java, Spring Framework/Boot, 전자정부프레임워크, JPA, MyBatis, Spring Security*
 
 - **고품질 리액트 & 스프링부트 65시간 풀스택 (Docker · AWS · GitHub Actions)**  
-  <https://inf.run/JHCG>  
+  <[https://inf.run/JHCG](https://inf.run/vsvT5)>  
   *React, Spring Boot, JPA, Docker, AWS, CI/CD*
 
 ---
 
 ## 🔗 Links
 - **GitHub**: <https://github.com/canesblack> *(Private 프로젝트 코드는 면접 시 확인 가능)*  
-- **Email**: <a href="mailto:jong@naver.com">jong@naver.com</a>
+- **Email**: <a href="mailto:jong960107@naver.com">jong960107@naver.com</a>
 
 ---
 
