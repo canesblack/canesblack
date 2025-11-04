@@ -1,16 +1,151 @@
-## Hi there 👋
-
 <!--
-**canesblack/canesblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  GitHub Profile README for: canesblack (정다현 / Dahyun Jung)
+  Tip: copy–paste into https://github.com/canesblack/canesblack/README.md
 -->
+
+<h1 align="center">Hi there 👋, I'm Dahyun Jung (정다현)</h1>
+<p align="center">
+  💻 Full-Stack Developer (Web & Mobile) · 📚 Official-Docs-First Learner · 🤖 AI Focused<br/>
+  🌏 Seoul, South Korea · <a href="mailto:jong@naver.com">jong@naver.com</a>
+</p>
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=canesblack&style=flat&label=profile+views" alt="profile views"/>
+  <!-- Hits -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/canesblack&title=hits&edge_flat=false" alt="hits"/>
+  <!-- Badges -->
+  <a href="https://github.com/canesblack"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-canesblack-181717?logo=github"></a>
+  <a href="https://inf.run/erSr"><img alt="Inflearn" src="https://img.shields.io/badge/Inflearn-강의바로가기-00C471?logo=readme&logoColor=white"></a>
+  <a href="mailto:jong@naver.com"><img alt="Email" src="https://img.shields.io/badge/Email-jong@naver.com-1f6feb?logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+- I am a **Full-Stack Developer** who builds **Web** and **Mobile** apps end-to-end (Frontend → Backend → Infra → Deployment).
+- I formed a habit of studying through **official documentation** first, to ensure **accuracy and deep understanding**.
+- Currently focusing on **Artificial Intelligence** (LLMs · Deep Learning · ML Engineering & Serving).
+- I enjoy shipping **production systems** and iterating with real user feedback.
+- Motto: **Build → Break → Understand → Rebuild**. I don’t stay in my comfort zone.
+
+---
+
+## 🚀 Highlights
+- **DINK 소개팅앱 (DINK Dating App)** — *Flutter 모바일 앱 + Spring Boot 관리자 MPA + 실서비스 운영*
+  - **Flutter(전면 개발)**: 상태관리, 라우팅, 반응형 UI, **휴대폰 본인인증 연동**(국내 인증 대행사/PG 연동), 알림/권한, 스토리지 업로드.
+  - **백엔드/관리자페이지**: **Spring Boot 기반 MPA**(서버 렌더링), 관리자용 회원/매칭/신고 처리를 위한 화면 및 권한 체계.
+  - **실제 배포 및 운영 경험**: 빌드/서명/스토어 등록, 서버 배포/모니터링, 로그·통계 기반 운영 최적화.
+- **아임홈** — 타이머 기반 **실시간 자녀 위치 확인** 앱 (Flutter, Dart)  
+- **강의 제작/운영(Inflearn)** — 실무형 **풀스택** 및 **DevOps** 강의 다수 운영
+
+---
+
+## 🧩 Projects
+### 1) DINK 소개팅앱 (Flutter · Phone Auth · Spring Boot Admin MPA · Production)
+- **Purpose**: DINK 라이프스타일을 지향하는 **미혼 사용자 대상 소개팅 서비스**
+- **Mobile (Flutter)**:
+  - 인증/가입 플로우 (**휴대폰 본인인증**), 프로필/사진 업로드, 선호도/매칭 로직 연동
+  - 채팅/알림, 신고/차단, 결제(바우처/구독 구조 가능)
+- **Admin (Spring Boot MPA)**:
+  - MPA 방식 서버사이드 렌더링(Thymeleaf/JSP 유사 경험), 어드민 인증/권한
+  - 회원 관리, 매칭 승인/거절, 신고 처리, 대시보드(지표/트래픽/신고현황)
+- **Ops**:
+  - 빌드/배포 자동화, 로그 수집/알람, 장애 대응, 개인정보/보안 준수 고려
+- **Tech**: Flutter(Dart), Spring Boot(MPA), JPA/MyBatis, MySQL, AWS, GitHub Actions  
+- **Status**: **개발 완료·배포·운영 경험 보유**
+
+### 2) 아임홈 (Flutter)
+- **Feature**: 타이머 기반 **실시간 자녀 위치 확인** 및 기록
+- **Tech**: Flutter(Dart)
+- **Repo/Code**: Private
+
+### 3) 교육 콘텐츠 (Inflearn)
+- **스프링 풀스택 웹개발 무료 강좌 시리즈** — <https://inf.run/erSr>
+- **리액트 & 스프링부트 65시간 풀스택 (Docker · AWS · GitHub Actions)** — <https://inf.run/JHCG>
+
+---
+
+## 🛠 Tech Stack
+**Languages**
+- Java, JavaScript/TypeScript, **Dart**, Python, C/C++
+
+**Frameworks & Libraries**
+- **Flutter**, React
+- **Spring Boot**, Spring Framework
+- JPA, MyBatis
+
+**DB / Infra / DevOps**
+- MySQL, MariaDB
+- **AWS**, Docker, **GitHub Actions**
+- Linux
+
+**AI / Data (Currently Focusing)**
+- PyTorch, TensorFlow, scikit-learn, **LLM**
+- Prompting / RAG / Model Serving
+
+---
+
+## 🎓 Education
+- **명지대학교(明知大學校, Myongji University)** — 정보통신공학과 **학사 졸업 (2023.02)**  
+- **인공지능 트랙(다전공) 수료 (2023.02)**
+
+---
+
+## 🏆 Awards
+- **명지대학교 정보통신공학과 공로상 (2023)**  
+- **한국정보통신보안윤리학회 창업개발대회 우수상 (2022)**
+
+---
+
+## 💼 Experience
+**멘토커뮤니케이션 — Software Engineer Intern** *(2020.06 ~ 2020.08, 3개월)*  
+- Java/JavaScript **클린코드 리팩토링** → 서버 버퍼/로딩 지연 **~30% 개선**
+- 보안 취약점(XSS 등) 진단 및 개선
+- MySQL 불필요/비가시성(*) 데이터 정리 및 스키마 개선
+- 신사업 커피머신 쇼핑몰:
+  - **장바구니(조회/담기/삭제/주문)** 구현
+  - **DB 모델링** 및 **API 엔드포인트** 설계
+  - **AWS 호스팅 배포** 완료
+
+**개발 및 운영(자체 서비스)**
+- **DINK 소개팅앱**: Flutter 전면 개발 · **휴대폰 본인인증** · Spring Boot **관리자 MPA** · **실제 배포/운영**
+- **아임홈**: 실시간 자녀 위치 확인 앱(Flutter)
+
+---
+
+## 🧾 Certifications / Etc.
+- 정보처리기능사 (한국산업인력공단)
+- 과대표 우수상 / 대학교 학장상
+- (기타) 개인정보·보안 준수 기반 서비스 운영 경험
+
+---
+
+## 📚 Teaching (Inflearn)
+- **이거 하나로 종결 — 스프링 풀스택 웹개발 무료강좌 시리즈**  
+  <https://inf.run/erSr>  
+  *HTML, CSS, JavaScript, MySQL, 데이터베이스, 컴퓨터네트워크 기초, Java, Spring Framework/Boot, 전자정부프레임워크, JPA, MyBatis, Spring Security*
+
+- **고품질 리액트 & 스프링부트 65시간 풀스택 (Docker · AWS · GitHub Actions)**  
+  <https://inf.run/JHCG>  
+  *React, Spring Boot, JPA, Docker, AWS, CI/CD*
+
+---
+
+## 🔗 Links
+- **GitHub**: <https://github.com/canesblack> *(Private 프로젝트 코드는 면접 시 확인 가능)*  
+- **Email**: <a href="mailto:jong@naver.com">jong@naver.com</a>
+
+---
+
+## 🌟 Fun Facts
+- I speak **Korean / English / French** (Enchanté !)
+- I believe **consistency beats intensity**.
+
+---
+
+<!-- Optional: GitHub Stats (can be disabled by commenting out) -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=canesblack&show_icons=true&count_private=true&hide_title=true" alt="stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canesblack&layout=compact&hide_title=true" alt="top langs">
+</p>
