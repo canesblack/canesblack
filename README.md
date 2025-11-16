@@ -1,9 +1,9 @@
 <!--
-  GitHub Profile README for: canesblack (정다현 / Dahyun Jung)
+  GitHub Profile README for: canesblack (정다현 / Dahyun Jpng)
   Tip: copy–paste into https://github.com/canesblack/canesblack/README.md
 -->
 
-<h1 align="center">Hi there 👋, I'm Dahyun Jung (정다현)</h1>
+<h1 align="center">Hi there 👋, I'm Dahyun Jong (정다현)</h1>
 <p align="center">
   💻 Full-Stack Developer (Web & Mobile) · 📚 Official-Docs-First Learner · 🤖 AI Focused<br/>
   🌏 Seoul, South Korea · <a href="mailto:jong960107@naver.com">jong960107@naver.com</a>
