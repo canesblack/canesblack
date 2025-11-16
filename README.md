@@ -16,8 +16,8 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/canesblack&title=hits&edge_flat=false" alt="hits"/>
   <!-- Badges -->
   <a href="https://github.com/canesblack"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-canesblack-181717?logo=github"></a>
-  <a href="https://inf.run/erSr"><img alt="Inflearn" src="https://img.shields.io/badge/Inflearn-강의바로가기-00C471?logo=readme&logoColor=white"></a>
-  <a href="mailto:jong@naver.com"><img alt="Email" src="https://img.shields.io/badge/Email-jong@naver.com-1f6feb?logo=gmail&logoColor=white"></a>
+  <a href="https://inf.run/vsvT5"><img alt="Inflearn" src="https://img.shields.io/badge/Inflearn-강의바로가기-00C471?logo=readme&logoColor=white"></a>
+  <a href="mailto:jong960107@naver.com"><img alt="Email" src="https://img.shields.io/badge/Email-jong960107@naver.com-1f6feb?logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -123,11 +123,11 @@
 
 ## 📚 Teaching (Inflearn)
 - **이거 하나로 종결 — 스프링 풀스택 웹개발 무료강좌 시리즈**  
-  <[https://inf.run/erSr](https://inf.run/u4nZS)>  
+  <[https://inf.run/u4nZS](https://inf.run/u4nZS)>  
   *HTML, CSS, JavaScript, MySQL, 데이터베이스, 컴퓨터네트워크 기초, Java, Spring Framework/Boot, 전자정부프레임워크, JPA, MyBatis, Spring Security*
 
 - **고품질 리액트 & 스프링부트 65시간 풀스택 (Docker · AWS · GitHub Actions)**  
-  <[https://inf.run/JHCG](https://inf.run/vsvT5)>  
+  <[https://inf.run/vsvT5](https://inf.run/vsvT5)>  
   *React, Spring Boot, JPA, Docker, AWS, CI/CD*
 
 ---
