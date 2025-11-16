@@ -12,8 +12,6 @@
 <p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=canesblack&style=flat&label=profile+views" alt="profile views"/>
-  <!-- Hits -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/canesblack&title=hits&edge_flat=false" alt="hits"/>
   <!-- Badges -->
   <a href="https://github.com/canesblack"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-canesblack-181717?logo=github"></a>
   <a href="https://inf.run/vsvT5"><img alt="Inflearn" src="https://img.shields.io/badge/Inflearn-강의바로가기-00C471?logo=readme&logoColor=white"></a>
