@@ -66,7 +66,7 @@
 
 ## 🛠 Tech Stack
 **Languages**
-- Java, JavaScript/TypeScript, **Dart**, Python, C/C++
+- Java, JavaScript, **Dart**, Python
 
 **Frameworks & Libraries**
 - **Flutter**, React
