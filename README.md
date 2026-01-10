@@ -30,7 +30,6 @@
 ---
 
 ## 🚀 Highlights
-- **DINK 소개팅앱 (DINK Dating App)** — *Flutter 모바일 앱 + Spring Boot 관리자 MPA + 실서비스 운영*
   - **Flutter(전면 개발)**: 상태관리, 라우팅, 반응형 UI, **휴대폰 본인인증 연동**(국내 인증 대행사/PG 연동), 알림/권한, 스토리지 업로드.
   - **백엔드/관리자페이지**: **Spring Boot 기반 MPA**(서버 렌더링), 관리자용 회원/매칭/신고 처리를 위한 화면 및 권한 체계.
   - **실제 배포 및 운영 경험**: 빌드/서명/스토어 등록, 서버 배포/모니터링, 로그·통계 기반 운영 최적화.
@@ -40,25 +39,13 @@
 ---
 
 ## 🧩 Projects
-### 1) DINK 소개팅앱 (Flutter · Phone Auth · Spring Boot Admin MPA · Production)
-- **Purpose**: DINK 라이프스타일을 지향하는 **미혼 사용자 대상 소개팅 서비스**
-- **Mobile (Flutter)**:
-  - 인증/가입 플로우 (**휴대폰 본인인증**), 프로필/사진 업로드, 선호도/매칭 로직 연동
-  - 채팅/알림, 신고/차단, 결제(바우처/구독 구조 가능)
-- **Admin (Spring Boot MPA)**:
-  - MPA 방식 서버사이드 렌더링(Thymeleaf/JSP 유사 경험), 어드민 인증/권한
-  - 회원 관리, 매칭 승인/거절, 신고 처리, 대시보드(지표/트래픽/신고현황)
-- **Ops**:
-  - 빌드/배포 자동화, 로그 수집/알람, 장애 대응, 개인정보/보안 준수 고려
-- **Tech**: Flutter(Dart), Spring Boot(MPA), JPA/MyBatis, MySQL, AWS, GitHub Actions  
-- **Status**: **개발 완료·배포·운영 경험 보유**
 
-### 2) 아임홈 (Flutter)
+### 1) 아임홈 (Flutter)
 - **Feature**: 타이머 기반 **실시간 자녀 위치 확인** 및 기록
 - **Tech**: Flutter(Dart)
 - **Repo/Code**: Private
 
-### 3) 교육 콘텐츠 (Inflearn)
+### 2) 교육 콘텐츠 (Inflearn)
 - **스프링 풀스택 웹개발 무료 강좌 시리즈** — <https://inf.run/erSr>
 - **리액트 & 스프링부트 65시간 풀스택 (Docker · AWS · GitHub Actions)** — <https://inf.run/JHCG>
 
